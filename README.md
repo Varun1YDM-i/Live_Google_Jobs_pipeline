@@ -1,6 +1,6 @@
 # 📡 Live Google Jobs Pipeline
 
-An end-to-end data engineering project built on **Databricks** to extract, process, and analyze job postings from the **Google Jobs API** using **Medallion Architecture** (Bronze → Silver → Gold). It delivers insights via a fully interactive **Streamlit** dashboard.
+An end-to-end data engineering project built on **Databricks** to extract, process, and analyze job postings from the **Google Jobs API** using **Medallion Architecture** (Bronze → Silver → Gold). It delivers insights via a fully interactive **Streamlit** dashboard [Live](https://hello-world-3935897645615541.aws.databricksapps.com/).
 
 ---
 
