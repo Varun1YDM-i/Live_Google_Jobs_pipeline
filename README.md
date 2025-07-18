@@ -115,5 +115,22 @@ This pipeline supports:
   - Employment type
 
 ---
+## 📈 Future Enhancements
+
+- ⏱️ **CI/CD Integration**  
+  Automate pipeline deployment and testing using GitHub Actions or Azure DevOps.
+
+- 📦 **SCD Type 2 Implementation**  
+  Implement Slowly Changing Dimension Type 2 logic to preserve historical job data.
+
+- 🔔 **Monitoring & Alerts**  
+  Add automated notifications (e.g., email, Slack, or Databricks alerts) for pipeline failures and SLA breaches.
+
+- ☁️ **Cloud Deployment**  
+  Host the Streamlit app on a public cloud platform like:
+  - [Streamlit Community Cloud](https://streamlit.io/cloud)
+  - Azure Web Apps
+  - AWS EC2 or S3 + Lambda (for static hosting + backend)
+
 
 
