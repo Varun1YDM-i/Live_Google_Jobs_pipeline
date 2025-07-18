@@ -100,23 +100,20 @@ This pipeline supports:
 
 ## 📁 Folder Structure
 
-Live_Google_Jobs_pipeline/
-│
-├── notebooks/
-│ ├── Bronze_Layer.ipynb # Extracts raw data from Google Jobs API
-│ ├── Silver_Layer.ipynb # Cleans and transforms Bronze data
-│ ├── Gold_Layer.ipynb # Aggregates data into KPIs
-│ └── write_data_to_app.ipynb # Exports KPI data and status to JSON/Excel
-│
-├── app/
-│ └── app.py # Streamlit dashboard application
-│
-├── data_exports/
-│ ├── kpi_top_companies.xlsx
-│ ├── kpi_jobs_by_location_city.xlsx
-│ ├── kpi_daily_job_trend.xlsx
-│ ├── kpi_job_type_distribution.xlsx
-│ └── pipeline_status.json # JSON file for last pipeline run status
-│
+📁 Live_Google_Jobs_pipeline/
+├── 📂 notebooks/
+│   ├── 📄 Bronze_Layer.ipynb
+│   ├── 📄 Silver_Layer.ipynb
+│   ├── 📄 Gold_Layer.ipynb
+│   └── 📄 write_data_to_app.ipynb
+├── 📂 app/
+│   └── 📄 app.py
+├── 📂 data_exports/
+│   ├── 📄 kpi_top_companies.xlsx
+│   ├── 📄 kpi_jobs_by_location_city.xlsx
+│   └── 📄 pipeline_status.json
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies for Streamlit app
+
+│
+
