@@ -99,7 +99,7 @@ This pipeline supports:
 ---
 
 ## 📁 Folder Structure
-
+'''
 📁 Live_Google_Jobs_pipeline/
 ├── 📂 notebooks/
 │   ├── 📄 Bronze_Layer.ipynb
@@ -114,6 +114,5 @@ This pipeline supports:
 │   └── 📄 pipeline_status.json
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies for Streamlit app
-
-│
+'''
 
