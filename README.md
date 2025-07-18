@@ -18,6 +18,24 @@ This pipeline supports:
 - Remote vs Onsite job statistics
 
 ---
+## 📁 Folder Structure
+```
+📁 Live_Google_Jobs_pipeline/
+├── 📂 notebooks/
+│   ├── 📄 Bronze_Layer.ipynb
+│   ├── 📄 Silver_Layer.ipynb
+│   ├── 📄 Gold_Layer.ipynb
+│   └── 📄 write_data_to_app.ipynb
+├── 📂 app/
+│   └── 📄 app.py
+├── 📂 data_exports/
+│   ├── 📄 kpi_top_companies.xlsx
+│   ├── 📄 kpi_jobs_by_location_city.xlsx
+│   └── 📄 pipeline_status.json
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies for Streamlit app
+```
+---
 
 ## 🛠️ Key Technologies
 
@@ -98,21 +116,4 @@ This pipeline supports:
 
 ---
 
-## 📁 Folder Structure
-'''
-📁 Live_Google_Jobs_pipeline/
-├── 📂 notebooks/
-│   ├── 📄 Bronze_Layer.ipynb
-│   ├── 📄 Silver_Layer.ipynb
-│   ├── 📄 Gold_Layer.ipynb
-│   └── 📄 write_data_to_app.ipynb
-├── 📂 app/
-│   └── 📄 app.py
-├── 📂 data_exports/
-│   ├── 📄 kpi_top_companies.xlsx
-│   ├── 📄 kpi_jobs_by_location_city.xlsx
-│   └── 📄 pipeline_status.json
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies for Streamlit app
-'''
 
