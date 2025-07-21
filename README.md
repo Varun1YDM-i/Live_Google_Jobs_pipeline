@@ -92,23 +92,29 @@ This pipeline supports:
 ---
 
 ## 📊 Streamlit Dashboard Features
-
 ### 1. **Job Marketplace**
+<img src="pics/databricks_app_1.png" width="600"/>
+
 - Pipeline status (live/failure)
 - Last successful run
 - Total jobs available
 - New jobs posted today
 
+
 ### 2. **Pipeline View (Data Lineage)**
+<img src="pics/databricks_app_2.png" width="600"/>
+
 - End-to-end visual of the flow: **API → Bronze → Silver → Gold**
 
 ### 3. **KPI Dashboard**
+<img src="pics/databricks_app_3.png" width="600"/>
 - Top Hiring Companies
 - Job Trends (Last 10 Days)
 - Jobs by State
 - Remote vs. Onsite Distribution
 
 ### 4. **Search & Explore Jobs**
+<img src="pics/databricks_app_4.png" width="600"/>
 - Dynamic filtering based on:
   - Job title
   - Company
