@@ -32,6 +32,7 @@ This pipeline supports:
 │   ├── 📄 kpi_top_companies.xlsx
 │   ├── 📄 kpi_jobs_by_location_city.xlsx
 │   └── 📄 pipeline_status.json
+├── 📂 pics/
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies for Streamlit app
 ```
