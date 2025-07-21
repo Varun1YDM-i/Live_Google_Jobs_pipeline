@@ -7,7 +7,7 @@ An end-to-end data engineering project built on **Databricks** to extract, proce
 ## 🚀 Project Overview
 
 The `Live_Google_Jobs_pipeline` automates the process of:
-- Collecting job data via **Google Jobs API** (SerpAPI).
+- Collecting job data( `Data Engineer`, `Python Developer`, `ETL Developer`, `Spark Engineer`, `Data Analyst` ) via **Google Jobs API** (SerpAPI).
 - Structuring and transforming it through multiple layers.
 - Delivering real-time insights via an analytical dashboard.
 
