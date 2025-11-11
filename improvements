@@ -1,0 +1,4 @@
+
+              - add timestap column while running the jobs
+              - trying implementing logging and error table
+              - email the status to whatsapp
